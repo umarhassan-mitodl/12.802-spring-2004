@@ -4,6 +4,8 @@ description: Animated graphic from section on Internal Gravity Waves.
 file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/9fe00a79fd5f080b43b630d60329331b_twowave.gif
 file_size: 1264401
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

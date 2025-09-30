@@ -4,6 +4,8 @@ description: Summary of lecture.
 file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/1ddcac6495e676d1af86fb104a20ea84_ape.pdf
 file_size: 53846
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

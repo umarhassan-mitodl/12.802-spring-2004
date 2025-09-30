@@ -4,6 +4,8 @@ description: Graphic from section on Internal Gravity Waves.
 file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/73482a4618a272409b5e4e6cc7af469a_igwr1.jpg
 file_size: 6829
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

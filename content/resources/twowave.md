@@ -4,6 +4,8 @@ description: ''
 file: /courses/12-802-wave-motions-in-the-ocean-and-atmosphere-spring-2004/55a611ac1c384d575e0cb016af34694d_twowave.jpg
 file_size: 99934
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
